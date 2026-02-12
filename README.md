@@ -19,7 +19,7 @@ version >= 3.9.13, install the packages in `requirements.txt`, and run
 the scripts:
 
 `1-Time-series-analysis-editing.ipynb` <br>
-`2-Time-series-analysis-risk.ipynb` <br>
+`2-Time-series-analysis-revert-risk.ipynb` <br>
 `3-Time-series-analysis-change-detection.ipynb` <br>
 
 ## Figures
