@@ -14,7 +14,7 @@ dataset needed to reproduce the analyses.
 ## Python Code
 
 There are three Python scripts that produce the analyses in the main text and 
-in the Supporting Information. To produce the figures, install Python 
+in the Supplementary Information. To produce the figures, install Python 
 version >= 3.9.13, install the packages in `requirements.txt`, and run 
 the scripts:
 
