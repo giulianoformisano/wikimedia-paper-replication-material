@@ -8,7 +8,7 @@ Andrew West, and Luciano Floridi.
 
 ## Data
 
-The file `dataset.csv` in the `data` folder contains the dataset needed to 
+The file `df_wikimedia_full_dataset.csv.zip` in the `data` folder contains the dataset needed to 
 reproduce the analyses.
 
 ## Python Code
