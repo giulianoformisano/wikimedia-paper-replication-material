@@ -9,7 +9,7 @@ Andrew West, and Luciano Floridi.
 ## Data
 
 The file `df_wikimedia_full_dataset.csv.zip` in the `data` folder contains the 
-dataset needed to reproduce the analyses.
+dataset needed to reproduce the analyses. Please unzip the file before use.
 
 ## Python Code
 
