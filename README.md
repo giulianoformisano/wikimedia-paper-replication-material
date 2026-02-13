@@ -1,8 +1,8 @@
 # README
 
-This repository contains all the data and code needed to reproduce the main analyses 
-for the article "Editorial Governance Under Pressure: Wikipedia's Revert Dynamics 
-During the 2024 US Election" by Giuliano Formisano, Emmie Hine, Prathm Juneja,
+This repository contains all data and code necessary to reproduce the main analyses 
+for the article "_Editorial Governance Under Pressure: Wikipedia's Revert Dynamics 
+During the 2024 US Election_" by Giuliano Formisano, Emmie Hine, Prathm Juneja,
 Joel Laitila, Claudio Novelli, Ethan Chiu, Elizabeth Dejanikus, Madeline Levin,
 Andrew West, and Luciano Floridi.
 
